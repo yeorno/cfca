@@ -1,0 +1,55 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+d2a75adb-1c76-9e52-1213-c6a2fc211be8 CryptoKit // SRC=FileSigning.cpp MJ= MN=
+#typev  FileSigning_cpp103 17 "%0lpwPKCS7Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+lpwBase64PKCS7Signature, ItemWString -- 10
+}
+#typev  FileSigning_cpp72 16 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp68 15 "%0Sign Alg RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+}
+#typev  FileSigning_cpp55 14 "%0Sign Alg SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+}
+#typev  FileSigning_cpp51 13 "%0dwUTF8Password:[%10!d!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+dwUTF8Password, ItemLong -- 10
+}
+#typev  FileSigning_cpp41 12 "%0bstrPfxFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  FileSigning_cpp40 11 "%0bstrSourceFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+bstrSourceFilePath, ItemWString -- 10
+}
+#typev  FileSigning_cpp39 10 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFile_PKCS7Detached
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp198 23 "%0lpwBase64PubCert:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+lpwBase64PubCert, ItemWString -- 10
+}
+#typev  FileSigning_cpp178 22 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+}
+#typev  FileSigning_cpp165 21 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+}
+#typev  FileSigning_cpp155 20 "%0bstrBase64PKCS7DetachedSignature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+bstrBase64PKCS7DetachedSignature, ItemWString -- 10
+}
+#typev  FileSigning_cpp154 19 "%0bstrSourceFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+bstrSourceFilePath, ItemWString -- 10
+}
+#typev  FileSigning_cpp153 18 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignature_PKCS7Detached
+{
+bstrSignAlg, ItemWString -- 10
+}

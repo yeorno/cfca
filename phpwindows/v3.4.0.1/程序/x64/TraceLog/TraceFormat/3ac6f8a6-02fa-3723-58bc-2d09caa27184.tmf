@@ -1,0 +1,167 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+3ac6f8a6-02fa-3723-58bc-2d09caa27184 CryptoKit // SRC=MessageSigning.cpp MJ= MN=
+#typev  MessageSigning_cpp418 37 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp413 36 "%0Verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+}
+#typev  MessageSigning_cpp402 35 "%0Verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+}
+#typev  MessageSigning_cpp389 34 "%0bstrBase64PKCS1Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+bstrBase64PKCS1Signature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp388 33 "%0bstrBase64CertContent:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+#typev  MessageSigning_cpp387 32 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp386 31 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS1
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp104 16 "%0lpwPKCS1Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+lpwBase64PKCS1Signature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp74 15 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp69 14 "%0Sign by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+}
+#typev  MessageSigning_cpp56 13 "%0Sign by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+}
+#typev  MessageSigning_cpp43 12 "%0bstrPfxFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  MessageSigning_cpp42 11 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp41 10 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS1
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp219 23 "%0lpwPKCS7Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+lpwBase64PKCS7Signature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp188 22 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp183 21 "%0bstrSignAlg RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+}
+#typev  MessageSigning_cpp169 20 "%0bstrSignAlg SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+}
+#typev  MessageSigning_cpp156 19 "%0bstrPfxFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  MessageSigning_cpp155 18 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp154 17 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Detached
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp334 30 "%0lpwPKCS7Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+lpwBase64PKCS7Signature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp303 29 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp298 28 "%0bstrSignAlg RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+}
+#typev  MessageSigning_cpp284 27 "%0bstrSignAlg SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+}
+#typev  MessageSigning_cpp271 26 "%0bstrPfxFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  MessageSigning_cpp270 25 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp269 24 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignData_PKCS7Attached
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp523 43 "%0lpwBase64PubCert:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+lpwBase64PubCert, ItemWString -- 10
+}
+#typev  MessageSigning_cpp504 42 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+}
+#typev  MessageSigning_cpp493 41 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+}
+#typev  MessageSigning_cpp483 40 "%0bstrBase64PKCS7DetachedSignature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+bstrBase64PKCS7DetachedSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp482 39 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp481 38 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Detached
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp597 48 "%0lpwBase64PubCert:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Attached
+{
+lpwBase64PubCert, ItemWString -- 10
+}
+#typev  MessageSigning_cpp578 47 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Attached
+{
+}
+#typev  MessageSigning_cpp567 46 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Attached
+{
+}
+#typev  MessageSigning_cpp560 45 "%0bstrBase64PKCS7AttachedSignature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Attached
+{
+bstrBase64PKCS7AttachedSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp559 44 "%0bstrSignAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyDataSignature_PKCS7Attached
+{
+bstrSignAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp630 49 "%0bstrBase64PKCS7AttachedSignature:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignSourceData
+{
+bstrBase64PKCS7AttachedSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp690 53 "%0Error description: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+wszErrorDesc, ItemWString -- 10
+}
+#typev  MessageSigning_cpp682 52 "%0System error: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+m_hLastError, ItemLong -- 10
+}
+#typev  MessageSigning_cpp677 51 "%0Resource ID: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+uResourceID, ItemLong -- 10
+}
+#typev  MessageSigning_cpp675 50 "%0Custom error: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+m_hLastError, ItemLong -- 10
+}

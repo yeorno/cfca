@@ -1,0 +1,105 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+f9e4e030-e9fb-c8c0-23e1-4ea919c18461 CryptoKit // SRC=MessageEncryption.cpp MJ= MN=
+#typev  MessageEncryption_cpp102 15 "%0lpwPKCS1Signature:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+lpwBase64CMSEnvelope, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp72 14 "%0bstrSymEncAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+bstrSymEncAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp68 13 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp56 12 "%0Encrypt by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp42 11 "%0bstrBase64EncryptCert:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+bstrBase64EncryptCert, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp41 10 "%0bstrAlgorithm:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptDataToCMSEnvelope
+{
+bstrAlgorithm, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp172 20 "%0Decrypt by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptDataFromCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp161 19 "%0Decrypt by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptDataFromCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp148 18 "%0bstrPfxFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptDataFromCMSEnvelope
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp147 17 "%0bstrBase64CMSEnvelope:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptDataFromCMSEnvelope
+{
+bstrBase64CMSEnvelope, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp146 16 "%0bstrAlgorithm:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptDataFromCMSEnvelope
+{
+bstrAlgorithm, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp350 26 "%0bstrInfoType:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::GetCertificateInfo
+{
+bstrInfoType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp349 25 "%0bstrBase64CertContent:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::GetCertificateInfo
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp495 30 "%0File is RSA" //   LEVEL=INFO FUNC=CCryptoAgent::GetPublicCertFromPFX
+{
+}
+#typev  MessageEncryption_cpp478 29 "%0File is SM2" //   LEVEL=INFO FUNC=CCryptoAgent::GetPublicCertFromPFX
+{
+}
+#typev  MessageEncryption_cpp468 28 "%0bstrPfxFilePath:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetPublicCertFromPFX
+{
+bstrPfxFilePath, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp467 27 "%0bstrAlgorithm:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetPublicCertFromPFX
+{
+bstrAlgorithm, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp605 33 "%0lpwHexHashData:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateDataHash
+{
+lpwHexHashData, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp564 32 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateDataHash
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp563 31 "%0bstrSourceData:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateDataHash
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp683 36 "%0lpwHexHashData:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateFileHash
+{
+lpwHexHashData, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp642 35 "%0bstrHashAlg:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateFileHash
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp641 34 "%0bstrSourceFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::CalculateFileHash
+{
+bstrSourceFilePath, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp267 24 "%0bstrTrustedCACertFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyCertificate
+{
+bstrTrustedCACertFilePath, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp256 23 "%0bstrCRLFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyCertificate
+{
+bstrCRLFilePath, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp242 22 "%0nCertVerifyFlag:[%10!d!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyCertificate
+{
+nCertVerifyFlag, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp241 21 "%0bstrBase64CertContent:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyCertificate
+{
+bstrBase64CertContent, ItemWString -- 10
+}

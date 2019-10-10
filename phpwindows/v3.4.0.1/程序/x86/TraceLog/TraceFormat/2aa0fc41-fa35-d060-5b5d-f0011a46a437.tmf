@@ -1,0 +1,98 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+2aa0fc41-fa35-d060-5b5d-f0011a46a437 SMKernel // SRC=CertificateOperations.cpp MJ= MN=
+#typev  CertificateOperations_cpp965 26 "%0Certificate issuer DN:%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszIssuerDN, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp866 25 "%0Certificate subject DN:%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszSubjectDN, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp764 24 "%0Certificate subject CN:%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszSubjectCN, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp721 23 "%0Certificate type:SM2" //   LEVEL=INFO FUNC=GetX509CertType
+{
+}
+#typev  CertificateOperations_cpp716 22 "%0Certificate type:RSA" //   LEVEL=INFO FUNC=GetX509CertType
+{
+}
+#typev  CertificateOperations_cpp706 21 "%0Certificate signature algorithm NID:%10!d!" //   LEVEL=INFO FUNC=GetX509CertType
+{
+nSigAlgNID, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp490 18 "%0All the check bits must be present." //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+}
+#typev  CertificateOperations_cpp487 17 "%0uiCheckBits(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+uiCheckBits, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp486 16 "%0pX509->ex_kusage(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pX509->ex_kusage, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp482 15 "%0pX509->ex_flags(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pX509->ex_flags, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp444 14 "%0X509_verify_cert(ErrorCode:%10!d! ErrorInfo:%11!s!)" //   LEVEL=INFO FUNC=VerifyCertChainByTrustedStore
+{
+nErrorCode, ItemLong -- 10
+szErrorInfo, ItemString -- 11
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp156 13 "%0Broken-down time: %10!04d!/%11!02d!/%12!02d! %13!02d!:%14!02d!:%15!02d!" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+stBrokendownTime.tm_year+1900, ItemLong -- 10
+stBrokendownTime.tm_mon+1, ItemLong -- 11
+stBrokendownTime.tm_mday, ItemLong -- 12
+stBrokendownTime.tm_hour, ItemLong -- 13
+stBrokendownTime.tm_min, ItemLong -- 14
+stBrokendownTime.tm_sec, ItemLong -- 15
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp67 12 "%0ASN1TIME type:V_ASN1_GENERALIZEDTIME" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+}
+#typev  CertificateOperations_cpp57 11 "%0ASN1TIME type:V_ASN1_UTCTIME" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+}
+#typev  CertificateOperations_cpp53 10 "%0ASN1TIME value:%10!s!" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+pASN1TimeDataCursor, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1024 28 "%0Certificate validity not after(time_t):%10!I64d!" //   LEVEL=INFO FUNC=GetX509NotAfter
+{
+tUTCTime, ItemLongLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1000 27 "%0Certificate validity not before(time_t):%10!I64d!" //   LEVEL=INFO FUNC=GetX509NotBefore
+{
+tUTCTime, ItemLongLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp541 20 "%0Current time(time_t):%10!I64d!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+tCurrentTime, ItemLongLong -- 10
+}

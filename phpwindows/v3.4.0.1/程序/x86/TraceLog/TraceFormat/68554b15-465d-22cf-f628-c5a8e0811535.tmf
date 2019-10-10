@@ -1,0 +1,15 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+68554b15-465d-22cf-f628-c5a8e0811535 SMKernel // SRC=PKCS7SignedDataOperations.cpp MJ= MN=
+#typev  PKCS7SignedDataOperations_cpp2291 12 "%0fSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+fSignatureEncodedType, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  PKCS7SignedDataOperations_cpp699 11 "%0It's a PKCS#7 detached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}
+#typev  PKCS7SignedDataOperations_cpp665 10 "%0It's a PKCS#7 attached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}

@@ -1,0 +1,19 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+ab2fe9cb-40c1-9f09-b9e3-f1ce07e08384 CryptoKernel // SRC=DataSigning.cpp MJ= MN=
+#typev  DataSigning_cpp359 18 "%0UTF16:%10!s!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+*ppwszUTF16, ItemWString -- 10
+}
+#typev  DataSigning_cpp336 17 "%0UTF16 Length:%10!d!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+utf16Size, ItemLong -- 10
+}
+#typev  DataSigning_cpp327 16 "%0UTF8Source Length:%10!d!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+utf8Length, ItemLong -- 10
+}
+#typev  DataSigning_cpp323 15 "%0UTF8Source:%10!s!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+pszUTF8, ItemString -- 10
+}

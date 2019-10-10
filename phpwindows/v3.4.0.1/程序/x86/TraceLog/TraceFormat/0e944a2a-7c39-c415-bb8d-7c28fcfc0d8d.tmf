@@ -1,0 +1,23 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+0e944a2a-7c39-c415-bb8d-7c28fcfc0d8d SMKernel // SRC=DataSigning.cpp MJ= MN=
+#typev  DataSigning_cpp253 11 "%0Bytes to read from file: %10!d!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+ulBytesToRead, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  DataSigning_cpp627 16 "%0It's SM2 ASN.1 encoded Q1 signature." //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp620 15 "%0It's SM2 raw RS signature." //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp615 14 "%0SM2 PKCS#1 signature size:%10!d!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+nDERPKCS1SignatureSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp537 13 "%0fSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+fSignatureEncodedType, ItemLong -- 10
+}

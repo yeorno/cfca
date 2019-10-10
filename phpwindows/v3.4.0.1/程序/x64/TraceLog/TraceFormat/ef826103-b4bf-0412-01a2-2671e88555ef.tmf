@@ -1,0 +1,122 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+ef826103-b4bf-0412-01a2-2671e88555ef SMKernel // SRC=ASN1EngineEx.cpp MJ= MN=
+#typev  ASN1EngineEx_cpp548 27 "%0fsetpos failed:0x%10!x!" //   LEVEL=ERR FUNC=GetInfiniteLengthEx
+{
+(int)(pNode->ValueStartPos), ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp534 26 "%0The node is not infinite length node" //   LEVEL=ERR FUNC=GetInfiniteLengthEx
+{
+}
+#typev  ASN1EngineEx_cpp423 17 "%0[%10!s!(%11!d!)]: value length is great than total length" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp409 16 "%0[%10!s!(%11!d!)]: value start postions is great than end postion" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp397 15 "%0[%10!s!(%11!d!)]: value length is great than total length" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp429 18 "%0Value Length:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLengthEx
+{
+*valueLength, ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp365 14 "%0Value length first byte value:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLengthEx
+{
+firstByteValue, ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp354 13 "%0fread 1 bytes failed" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+}
+#typev  ASN1EngineEx_cpp346 12 "%0fsetpos failed:0x%10!x!" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+(int)(*lengthStartPos), ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp336 11 "%0[%10!s!(%11!d!)]: start position is great than end position" //   LEVEL=ERR FUNC=GetASN1ValueLengthEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp332 10 "%0Value length start position:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLengthEx
+{
+(int)(*lengthStartPos), ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp514 25 "%0[%10!s!(%11!d!)]: value end position is greater than end position" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp505 24 "%0GetASN1ValueLengthEx Failed" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+}
+#typev  ASN1EngineEx_cpp492 23 "%0Tag value:0x%10!x!" //   LEVEL=INFO FUNC=ParseASN1TLVEx
+{
+(int)(*tag), ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp485 22 "%0[%10!s!(%11!d!)]: start position is great than end position" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp477 21 "%0fread read tag value failed" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+}
+#typev  ASN1EngineEx_cpp470 20 "%0fsetpos failed startPosition value:0x%10!x!" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+(int)(*startPosition), ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp463 19 "%0[%10!s!(%11!d!)]: start position is great than end position" //   LEVEL=ERR FUNC=ParseASN1TLVEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  ASN1EngineEx_cpp663 31 "%0ParseASN1TLVEx failed" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+}
+#typev  ASN1EngineEx_cpp691 32 "%0ParseNodeEx failed" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+}
+#typev  ASN1EngineEx_cpp701 33 "%0[%10!s!(%11!d!): child nodes length(0x%12!08x!) is larger than parent node length(0x%13!08x!)]" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+childNodesLength, ItemLong -- 12
+nodeLength, ItemLong -- 13
+}
+#typev  ASN1EngineEx_cpp715 34 "%0[%10!s!(%11!d!)]: position is not in file size range" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1EngineEx_cpp638 30 "%0[%10!s!(%11!d!)]: position is outof the file range: pNode->FileLength=%12!d!; endPos=%13!d!" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+pNode->TotalLength, ItemLong -- 12
+(long)endPos, ItemLong -- 13
+}
+#typev  ASN1EngineEx_cpp599 29 "%0Too deeply recursive calling(count):%10!u!" //   LEVEL=ERR FUNC=ParseNodeEx
+{
+CurrentDeepLevel, ItemLong -- 10
+}
+#typev  ASN1EngineEx_cpp596 28 "%0[%10!s!(%11!d!)]: CurrentDeepLevel =%12!d!" //   LEVEL=INFO FUNC=ParseNodeEx
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+CurrentDeepLevel, ItemLong -- 12
+}
+#typev  ASN1EngineEx_cpp819 35 "%0Parse ASN.1 root node failed" //   LEVEL=ERR FUNC=DecodeASN1MemoryEx
+{
+}
+#typev  ASN1EngineEx_cpp846 36 "%0Current recursive deep level:%10!u!" //   LEVEL=INFO FUNC=DecodeASN1MemoryEx
+{
+currentDeepLevel, ItemLong -- 10
+}

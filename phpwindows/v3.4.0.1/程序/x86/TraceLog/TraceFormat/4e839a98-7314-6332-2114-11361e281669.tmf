@@ -1,0 +1,21 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+4e839a98-7314-6332-2114-11361e281669 CryptoKernel // SRC=tracehelper.cpp MJ= MN=
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=TraceHRESULT
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=TraceHRESULT
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=TraceHelper::~TraceHelper
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=TraceHelper::TraceHelper
+{
+m_lpwFunc, ItemWString -- 10
+}

@@ -1,0 +1,59 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+c56562ce-75dd-ad59-7253-80d99262bdd8 SMKernel // SRC=RSADataSigning.cpp MJ= MN=
+#typev  RSADataSigning_cpp710 24 "%0DER encoded PKCS7 signature data size : %10!d!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+nDERSignatureSize, ItemLong -- 10
+}
+#typev  RSADataSigning_cpp701 23 "%0It's PKCS7 detached signature." //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+}
+#typev  RSADataSigning_cpp696 22 "%0It's PKCS7 attached signature." //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataSigning_cpp124 16 "%0Hash algorithm:SHA512" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp128 17 "%0Hash algorithm:SM3" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp132 18 "%0Unsupported hash algorithm NID:%10!d!" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+nHashNID, ItemLong -- 10
+}
+#typev  RSADataSigning_cpp120 15 "%0Hash algorithm:SHA384" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp108 12 "%0Hash algorithm:MD5" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp112 13 "%0Hash algorithm:SHA1" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp116 14 "%0Hash algorithm:SHA256" //   LEVEL=INFO FUNC=GetEVPMDbyNID
+{
+}
+#typev  RSADataSigning_cpp81 11 "%0User defines unaccurate digest encryption algorithm" //   LEVEL=INFO FUNC=GetAlgOIDbyHashNID
+{
+}
+#typev  RSADataSigning_cpp73 10 "%0The algorithm is not supported" //   LEVEL=ERR FUNC=GetAlgOIDbyHashNID
+{
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataSigning_cpp213 21 "%0SourceFile size: %10!d!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+nSourceFileSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataSigning_cpp167 20 "%0Hash value size : %10!d!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+nHashSize, ItemLong -- 10
+}
+#typev  RSADataSigning_cpp164 19 "%0Source data size : %10!d!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+nSourceSize, ItemLong -- 10
+}

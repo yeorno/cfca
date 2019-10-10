@@ -1,0 +1,17 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+76914140-8b31-d4d1-9140-95a5a876ec94 CryptoKit // SRC=dllmain.cpp MJ= MN=
+#typev  dllmain_cpp32 13 "%0PROCESS DETACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+#typev  dllmain_cpp22 10 "%0PROCESS ATTACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  dllmain_cpp25 11 "%0THREAD ATTACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+#typev  dllmain_cpp28 12 "%0THREAD DETACH" //   LEVEL=INFO FUNC=DllMain
+{
+}

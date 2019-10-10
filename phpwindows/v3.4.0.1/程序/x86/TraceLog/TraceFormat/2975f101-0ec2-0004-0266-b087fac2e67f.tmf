@@ -1,0 +1,51 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+2975f101-0ec2-0004-0266-b087fac2e67f SMKernel // SRC=RSADataEncryption.cpp MJ= MN=
+#typev  RSADataEncryption_cpp550 18 "%0RSA Key Bytes: %10!d!" //   LEVEL=INFO FUNC=RSADecrypt
+{
+nKeyBytes, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp512 17 "%0RSA Key Bytes: %10!d!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+nKeyBytes, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp44 10 "%0nSymAlgNID: %10!d!" //   LEVEL=INFO FUNC=GenerateSymKey
+{
+nSymAlgNID, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp476 16 "%0nTotalPlainDataSize: %10!d!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+nTotalPlainDataSize, ItemLong -- 10
+}
+#typev  RSADataEncryption_cpp439 15 "%0nEncryptedFileSize: %10!d!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+nEncryptedFileSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp385 14 "%0nEncrytpedFileSize: %10!d!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+nEncrytpedDataSize, ItemLong -- 10
+}
+#typev  RSADataEncryption_cpp339 13 "%0nPlainFileSize: %10!d!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+nPlainFileSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp299 12 "%0nSymAlgNID: %10!d!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+nSymAlgNID, ItemLong -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+#typev  RSADataEncryption_cpp146 11 "%0nSymAlgNID: %10!d!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+nSymAlgNID, ItemLong -- 10
+}

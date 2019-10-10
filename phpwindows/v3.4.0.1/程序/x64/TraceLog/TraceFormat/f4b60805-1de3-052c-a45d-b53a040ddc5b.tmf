@@ -1,0 +1,4895 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+f4b60805-1de3-052c-a45d-b53a040ddc5b SMKernel // SRC=Misc.cpp MJ= MN=
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4DecryptByPin
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4DecryptByPin
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4DecryptByPin
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4DecryptByPin
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptBase64CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptBase64CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptBase64CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptBase64CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHashEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHashEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHashEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHashEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSADecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSADecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSADecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSADecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSADecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSADecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSADecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSADecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetEVPCipherbyNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetEVPCipherbyNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetEVPCipherbyNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetEVPCipherbyNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GenerateSymKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GenerateSymKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GenerateSymKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GenerateSymKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GenerateSymKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GenerateSymKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GenerateSymKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GenerateSymKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GenerateSymKey
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncryptByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncryptByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncryptByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncryptByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncryptByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncryptByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSAEncryptByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSAEncryptByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymFileEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymFileEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymDecrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymDecrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SymEncrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SymEncrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToDERCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_DecryptDataFromCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_EncryptDataToCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1Encode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1Encode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1Encode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1Encode
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509IssuerDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509IssuerDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectDN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectDN
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectCN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectCN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectCN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectCN
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SubjectCN
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SubjectCN
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509CertType
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509CertType
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509CertType
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertCRL
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertCRL
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertCRL
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertCRL
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertCRL
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckX509KeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckX509KeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckX509KeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChainByTrustedStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChainByTrustedStore
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertChainByTrustedStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChainByTrustedStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertChainByTrustedStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChainByTrustedStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=LoadCertsToStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=LoadCertsToStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=LoadCertsToStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=LoadCertsToStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=LoadCertsToStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=LoadCertsToStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=LoadCertsToStore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=LoadCertsToStore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConvertCertDataToX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConvertCertDataToX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConvertCertDataToX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConvertCertDataToX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePFXFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePFXFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePFXFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePFXFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePFXFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePFXFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1_TIME_To_UTCTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1_TIME_To_UTCTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1_TIME_To_UTCTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1_TIME_To_UTCTime
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1_TIME_To_UTCTime
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509SerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509SerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509NotAfter
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509NotAfter
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509NotAfter
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509NotAfter
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509NotBefore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509NotBefore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetX509NotBefore
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetX509NotBefore
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertTime
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertTime
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckCertKeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckCertKeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertChain
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChain
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertChain
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertChain
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertificate
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertificate
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyCertificate
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyCertificate
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPMDbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetAlgOIDbyHashNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetAlgOIDbyHashNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetAlgOIDbyHashNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetAlgOIDbyHashNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateFileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateDataHash
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateDataHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateDataHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateDataHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateDataHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS7
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS7
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1_ByX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPrivateKey
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByDERCertContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByDERCertContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS1_ByDERCertContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS1_ByDERCertContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS1_ByDERCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS1_ByDERCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_DERPKCS1_ByDERCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_DERPKCS1_ByDERCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyDataSignature_PKCS1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignData_PKCS1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignData_PKCS1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached_ByPFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=RSA_SignFile_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=RSA_SignFile_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=TraceError
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=TraceInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConvertBinaryDataToString
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConvertBinaryDataToString
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetOIDFromNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetOIDFromNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetOIDFromNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetOIDFromNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetOIDFromNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetOIDFromNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetOIDFromNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetOIDFromNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParseSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParseSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParseSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParseSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParseSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParseSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}

@@ -1,0 +1,22 @@
+Demo运行
+环境要求：WinServer2008 64bit、 WinServer2012 64bit
+1、配置php.ini
+php -i|findstr ini ,找到php.ini所在路径
+将重命名后的 php.ini 文件内的“; extension_dir = "ext"”行，修改为 “extension_dir = "./ext"”。然后，在 php.ini 文件末尾，添加以下两行内容:[COM_DOT_NET] extension=php_com_dotnet.dll
+
+2、注册com组件
+64位下执行 regsvr32 CryptoKit.Standard.x64.dll
+32位下执行 regsvr32 CryptoKit.Standard.x86.dll
+
+3、在Demo\RSA目录下替换证书和cer文件 
+pfx为私钥文件请妥善保管不要泄露给他人
+cer文件为颁发者公钥，用来验证汇付公钥
+
+
+4、在Demo目录下执行
+php huifuCFCAWindowsDemo.php
+
+SignData_PKCS7Attached 为使用pfx证书加签
+VerifyDataSignature_PKCS7Attached  为验证汇付的签名
+VerifyCertificate 为验证证书链合法性
+GetCertificateInfo 为获取证书信息（非必要）

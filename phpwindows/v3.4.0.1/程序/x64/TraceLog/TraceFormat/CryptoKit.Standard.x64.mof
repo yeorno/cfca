@@ -1,0 +1,40 @@
+#pragma autorecover
+#pragma classflags("forceupdate")
+#pragma namespace("\\\\.\\root\\WMI")
+//
+// WPP Generated File
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x64\Release\CryptoKit.Standard.x64.dll
+// PDB:  Last Updated :2017-8-17:8:17:58:784 (UTC) [tracepdb]
+//
+
+//ModuleName = CryptoKit.Standard.x64Toolkits	 (Init called in Function DllMain)
+[Dynamic,
+ Description("CryptoKit.Standard.x64_Toolkits"),
+ guid("{5C8F2A58-369A-44f0-9235-C05ECB1DD73E}"),
+ locale("MS\\0x409")]
+class CryptoKit.Standard.x64Toolkits : EventTrace
+{
+    [Description ("Enable Flags") : amended,
+        ValueDescriptions{
+             "ERR Flag",
+             "WARNING Flag",
+             "INFO Flag",
+             "VERBOSE Flag"},
+        DefineValues{
+             "ERR",
+             "WARNING",
+             "INFO",
+             "VERBOSE"},
+        Values{
+             "ERR",
+             "WARNING",
+             "INFO",
+             "VERBOSE"},
+        ValueMap{
+             "0x00000001",
+             "0x00000002",
+             "0x00000004",
+             "0x00000008"}: amended
+    ]
+    uint32 Flags;
+};

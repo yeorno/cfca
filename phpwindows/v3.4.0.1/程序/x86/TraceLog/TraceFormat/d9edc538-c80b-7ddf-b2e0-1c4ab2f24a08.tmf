@@ -1,0 +1,47 @@
+// PDB:  D:\Builds\8\SADK\CryptoKit_PHP_Standard\Binaries\x86\Release\CryptoKit.Standard.x86.dll
+// PDB:  Last Updated :2017-8-17:8:16:41:480 (UTC) [tracepdb]
+d9edc538-c80b-7ddf-b2e0-1c4ab2f24a08 CryptoKit // SRC=FileEncryption.cpp MJ= MN=
+#typev  FileEncryption_cpp194 21 "%0bstrSymEncAlgorithm SM4_CBC" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+}
+#typev  FileEncryption_cpp186 20 "%0bstrSymEncAlgorithm 3DES_CBC" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+}
+#typev  FileEncryption_cpp181 19 "%0nSymKeySize:%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+nSymKeySize, ItemLong -- 10
+}
+#typev  FileEncryption_cpp165 18 "%0bstrPlainFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+bstrPlainFilePath, ItemWString -- 10
+}
+#typev  FileEncryption_cpp164 17 "%0bstrEncryptFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+bstrEncryptFilePath, ItemWString -- 10
+}
+#typev  FileEncryption_cpp163 16 "%0bstrSymEncAlgorithm:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymDecryptFile
+{
+bstrSymEncAlgorithm, ItemWString -- 10
+}
+#typev  FileEncryption_cpp81 15 "%0bstrSymEncAlgorithm SM4_CBC" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+}
+#typev  FileEncryption_cpp65 14 "%0bstrSymEncAlgorithm 3DES_CBC" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+}
+#typev  FileEncryption_cpp57 13 "%0nPlainFileSize:%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+nPlainFileSize, ItemLong -- 10
+}
+#typev  FileEncryption_cpp49 12 "%0bstrEncryptFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+bstrEncryptFilePath, ItemWString -- 10
+}
+#typev  FileEncryption_cpp48 11 "%0bstrPlainFilePath:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+bstrPlainFilePath, ItemWString -- 10
+}
+#typev  FileEncryption_cpp47 10 "%0bstrSymEncAlgorithm:[%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SymEncryptFile
+{
+bstrSymEncAlgorithm, ItemWString -- 10
+}
